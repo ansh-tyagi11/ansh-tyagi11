@@ -1,4 +1,8 @@
 # 💫 About Me:
+Hi there 👋
+
+Nice meeting you, I'm Ansh Tyagi!
+
 ### 🔭 I’m currently working on  
 Building full-stack projects using **Next.js**, **Node.js**, and **MongoDB**, focusing on clean architecture and scalable backend systems.
 
